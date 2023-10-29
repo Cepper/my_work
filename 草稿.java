@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.event.ActionListener;
 
 import java.awt.event.ActionEvent;
-
+	
 public class 草稿 {
     public static void main(String[] args) { 
         long startTime=System.nanoTime();
@@ -19,6 +19,7 @@ public class 草稿 {
 	    System.out.println(c);
 	    long endTime=System.nanoTime();
         System.out.println("当前程序耗时："+(endTime-startTime)+"ns");
+	System.out.println("修改克隆下来的代码并提交推送到合作同学的仓库");
 
 	}
 }
