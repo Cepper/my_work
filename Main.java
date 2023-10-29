@@ -14,4 +14,3 @@ public class Main {
 		System.out.println(1);
 	}
 }
-//²»×¼ÐÞ¸Ä
